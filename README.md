@@ -239,4 +239,4 @@ This repository serves as the official landing page for Ninite. The software is 
 **Get the most recent version of Ninite today!**
 
 ---
-**Last updated:** 2026-10-01 21:34:15 UTC
+**Last updated:** 2026-10-02 01:18:37 UTC
